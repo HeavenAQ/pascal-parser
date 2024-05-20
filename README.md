@@ -1,8 +1,8 @@
 # Compiler hw2
 
-Author: B081020008 陳羿閔
-Created time: May 19, 2024 9:18 PM
-SUBJECTS: Compiler (https://www.notion.so/Compiler-1760939ce271452aa81d9c48c6884bd8?pvs=21)
+## DISCLAIMER
+
+This is a simple pascal parser for homework 2 of the compiler course at NSYSU. If you happen to be a student taking this course, please do not copy this code for your homework. You should do your homework by yourself. This code is only for reference purposes.
 
 ## 1. Lex Version
 
@@ -212,7 +212,7 @@ Line 10: end.
 ---------------------------------
 ```
 
-## 7. 測試檔案
+## 7. Test Files
 
 ```c
 ./testfile/correct.pas
@@ -366,4 +366,3 @@ begin
 end.
 ---------------------------------
 ```
-
